@@ -1,0 +1,6 @@
+{
+  "name": "Liquid Glass Alarm Clock",
+  "description": "An elegant, glassmorphic iOS-style alarm clock powered by React, local storage, and Web Audio API synthesizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
